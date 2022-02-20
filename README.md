@@ -12,3 +12,7 @@ Contact Us using the form below
         <textarea class="textarea" name="body" id="body">Example Email Body</textarea></div>
     <div><input type="submit" value="Create Email" class="button is-primary"></div>
 </form>
+
+body {
+    padding: 1rem;
+} 
