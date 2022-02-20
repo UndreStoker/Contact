@@ -13,6 +13,3 @@ Contact Us using the form below
     <div><input type="submit" value="Create Email" class="button is-primary"></div>
 </form>
 
-body {
-    padding: 1rem;
-} 
